@@ -10,7 +10,7 @@
 # Setting the path to data location and loading packages
 packages <- c("data.table", "reshape2")
 sapply(packages, require, character.only=TRUE, quietly=TRUE)
-setwd("D:/Axtria/Training/Data Science using R- Coursera/Github/Getting-and-Cleaning-Data")
+
 path <- getwd()
 
 # Activity labels and features
