@@ -14,11 +14,8 @@ Link to Dataset: [Download ZIP file](https://d396qusza40orc.cloudfront.net/getda
 Output | Name | Location
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  [Link](https://github.com/ajithmasthan0320/Getting-and-Cleaning-Data/blob/master/run_analysis.R")
-Tidy Data Set |  tidyData.txt |  [Link](https://github.com/ajithmasthan0320/Getting-and-Cleaning-Data/blob/master/tidyData.txt")
-Github Repository | Getting and Cleaning Data |  
-[Link](https://github.com/ajithmasthan0320/Getting-and-Cleaning-Data)
-Codebook | CodeBook.md |  
-[Link](https://github.com/ajithmasthan0320/Getting-and-Cleaning-Data/blob/master/CodeBook.md")
-README | README.md |  
-[Link](https://github.com/ajithmasthan0320/Getting-and-Cleaning-Data/blob/master/README.md")
+Tidy Data Set |  tidyData.txt | [Link](https://github.com/ajithmasthan0320/Getting-and-Cleaning-Data/blob/master/tidyData.txt")
+Github Repository | Getting and Cleaning Data | [Link](https://github.com/ajithmasthan0320/Getting-and-Cleaning-Data)
+Codebook | CodeBook.md | [Link](https://github.com/ajithmasthan0320/Getting-and-Cleaning-Data/blob/master/CodeBook.md")
+README | README.md |  [Link](https://github.com/ajithmasthan0320/Getting-and-Cleaning-Data/blob/master/README.md")
 
