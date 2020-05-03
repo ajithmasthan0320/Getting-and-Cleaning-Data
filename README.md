@@ -9,6 +9,15 @@ Link to Dataset: [Download ZIP file](https://d396qusza40orc.cloudfront.net/getda
 4. Include a README.md in the repo along with the scripts that explains how all of the scripts work and how they are connected.
 5. Analysis R Script
 
+## Brief description about R Script
+1. Sets the path to data location and loads required packages
+2. Reads Activity labels and features
+3. Processes Train datasets
+4. Processes Test datasets
+5. Merges both Train and Test datasets
+6. Labels the dataset with desriptive variable names
+7. Writes the output to tidyData.txt
+
 ## Project Outputs
 
 Output | Name | Location
